@@ -1,0 +1,7 @@
+{
+  "name": "HabitAI",
+  "description": "A minimal, aesthetic habit tracker powered by AI. Visualize your progress with contribution graphs and get personalized coaching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

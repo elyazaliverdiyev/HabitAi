@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HabitAi</string>
+    <string name="title_activity_main">HabitAi</string>
+    <string name="package_name">com.habitai.tracker</string>
+    <string name="custom_url_scheme">com.habitai.tracker</string>
+    <string name="server_client_id">176216214870-8tmdotpr9ga1u1f4hq4oc65ucos6vhio.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "176216214870",
+    "project_id": "habitai-90e1e",
+    "storage_bucket": "habitai-90e1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176216214870:android:80ae40f2a2525caf79daf7",
+        "android_client_info": {
+          "package_name": "com.habitai.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176216214870-37cst7lbfih11ipliihsfddore9t37dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.habitai.tracker",
+            "certificate_hash": "edfedb86b759a503b526c80eb425fb36c372f778"
+          }
+        },
+        {
+          "client_id": "176216214870-9tr2b5einamd62fjnb6il454jmko4j7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.habitai.tracker",
+            "certificate_hash": "8d9bb01ff39146803d270da698ec0ba694930a3d"
+          }
+        },
+        {
+          "client_id": "176216214870-8tmdotpr9ga1u1f4hq4oc65ucos6vhio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIRjZL7qXFedCehunQc_hS0OHy5etYvck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176216214870-8tmdotpr9ga1u1f4hq4oc65ucos6vhio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
