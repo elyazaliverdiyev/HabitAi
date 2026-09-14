@@ -42,4 +42,10 @@ empty_public
 migrated_prompt_history
 liquid-glass
 
+# Secret keys and certificates
+*serviceAccountKey*.json
+*.jks
+*.keystore
+
+
 
